@@ -1,37 +1,14 @@
-# 👋 Hi, I'm Derrick Gan Zheng Qian
-
-💡 **Data Engineer @ Maybank**  
-🌴 Creator of **[Bursa PalmAI](https://bursa-palmai.onrender.com)** — an AI & Data-powered Palm Oil Intelligence Hub  
-📍 Kuala Lumpur, Malaysia  
+# 👋 Hi all, I'm Derrick Gan 颜正谦, a data engineer at Maybank, based in Kuala Lumpur!
 
 ---
 
-### 🧠 About Me
-- Data engineer passionate about **AI, data analytics, and full-stack apps**  
-- Built tools that automate financial analytics and ESG insights  
-- Exploring **digital-twin systems** for personal finance & health  
-
----
-
-### 🛠 Tech Stack
-Python · R · SQL · FastAPI · React · Tailwind · Chart.js · Power BI  
-
----
-
-### 🏆 Highlights
-- **Champion** – Malaysia Techlympics 2023 (Data Science)  
-- Built ETL pipelines processing 10M+ transactions (SP3B Maybank project)  
-- Developed automated Shiny/REST tools for solar & fraud analytics  
-
----
-
-### 🔗 Projects
+### 🔗 Personal Projects because I can't share all what I do in my workplace 🤪
 - 🌴 [**Bursa PalmAI**](https://bursa-palmai.onrender.com) — Palm Oil Intelligence Hub  
 - 🧬 **Digital Twin** — self analytics (finance + health)  
 
 ---
 
-### 📫 Connect
-[LinkedIn](https://linkedin.com/in/ganzhengqian) • [GitHub](https://github.com/derrickgzq)  
+### 📫 Connect with me!
+[LinkedIn](https://linkedin.com/in/ganzhengqian) • [GitHub](https://github.com/derrickgzq) • [Site](https://derrickgzq.github.io/dg_world/)  
 
 ---
